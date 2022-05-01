@@ -1,0 +1,21 @@
+{
+    "name": "minimal-glass",
+    "displayName": "Minimal Glass",
+    "description": "A minimal theme made for those developers who want to focus on their code while having an amazing visual experience.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Glass",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimal Glass-color-theme.json"
+            }
+        ]
+    }
+}
